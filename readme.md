@@ -1,1 +1,4 @@
-# This is a repo for our new GCP DevOps Project
+# Docker Flask application 
+
+- A simple Python Flask application containerized with Docker.  
+- This app will later be deployed on Google Kubernetes Engine (GKE).
